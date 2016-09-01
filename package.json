@@ -1,0 +1,14 @@
+{
+  "name": "MinifyHtmlCssAndJavascript",
+  "version": "1.0.0",
+  "description": "",
+  "author": "MichalKatuscak",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-htmlmin": "^2.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
